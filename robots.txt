@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://feighahyo.devopsku.be/sitemap.xml
